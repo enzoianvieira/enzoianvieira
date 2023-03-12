@@ -2,7 +2,7 @@
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/enzoianvieira) 
 
 
-Olá mundo! Me chamo **Enzo Ian** tenho 16 anos e estou estudando para ser um desenvolvedor Back-End. Sou de Curitiba, Brasil. Atualmente estou terminado o 2° Ano do Ensino médio técnico.
+Olá mundo! Me chamo **Enzo Ian** tenho 18 anos e sou de Curitiba, Brasil. Formado como Técnico em Informática pelo TECPUC, estou cursando Ciência da Computação na PUCPR para me tornar um desenvolvedor Back-End.
 
 ## 📫 Social
 <div>
