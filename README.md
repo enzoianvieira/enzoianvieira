@@ -7,8 +7,6 @@ Olá mundo! Me chamo **Enzo Ian** tenho 18 anos e sou de Curitiba, Brasil. Forma
 ## 📫 Social
 <div>
   <a href="mailto:enzoianvieira@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-  <a href="https://open.spotify.com/user/enzonitoextreme?si=b24dd3423fb548bb" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> </a>
-  
 </div>
 
 ##
