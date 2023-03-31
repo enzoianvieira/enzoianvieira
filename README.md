@@ -14,6 +14,4 @@ Olá mundo! Me chamo **Enzo Ian** tenho 18 anos e sou de Curitiba, Brasil. Forma
 
 ##
 
-![enzoianvieira Github stats](https://github-readme-stats.vercel.app/api?username=enzoianvieira&show_icons=true&theme=dark)
-
 ![enzoianvieira Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=enzoianvieira&theme=dark)
